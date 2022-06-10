@@ -53,5 +53,4 @@ const { muppetName, color, song, job, partner } = muppet;
 
 // Solution 8 without nested destructuring
 const { nestedJob, nestedPartner } = nestedMuppet;
-
 const { song2, song4 } = nestedMuppet.album.theMuppetMovie;
